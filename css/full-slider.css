@@ -1,0 +1,54 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-brand {
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px; 
+}
+
+.nav-link {
+	font-family: 'Oswald', sans-serif;
+}
+
+.images {
+	max-width:100%;
+  padding-top: 10%;
+  padding-left: 30%;
+}
+
+.title {
+  font-family: Oswald, sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  padding-top: 20%;
+}
+
+.caption {
+  font-family: Oswald, sans-serif;
+  font-weight: 300;
+}
+
+.dropdown button{
+  background: none !important;
+  border: none !important;
+  font-family: Oswald, sans-serif;
+
+}
+
+a dropdown-item {
+
+  font-family: Oswald, sans-serif !important;
+}
