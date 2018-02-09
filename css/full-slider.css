@@ -37,6 +37,12 @@
   padding-top: 20%;
 }
 
+.title2 {
+  font-family: Oswald, sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  padding-top: 5%;
+}
 .year {
   font-family: Oswald, sans-serif;
   font-weight: 400;
