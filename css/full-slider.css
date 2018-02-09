@@ -45,6 +45,13 @@ and (max-device-width : 900px) {.images {
   padding-top: 20%;
 }
 
+.year {
+  font-family: Oswald, sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  text-align: right;
+}
+
 .caption {
   font-family: Oswald, sans-serif;
   font-weight: 300;
