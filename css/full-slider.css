@@ -30,14 +30,6 @@
 
 }
 
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 900px) {.images {
-        max-width:100%;
-        padding-top: 10%;
-        float: center;
-    }}
-
 .title {
   font-family: Oswald, sans-serif;
   font-weight: 600;
@@ -67,4 +59,17 @@ and (max-device-width : 900px) {.images {
 a dropdown-item {
   background: none !important;
   font-family: Oswald, sans-serif !important;
+}
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 900px) {
+  
+  .images {
+        max-width:100%;
+        padding-top: 10%;
+        float: center;
+    }}
+  .year {
+        text-align: left;
 }
