@@ -62,10 +62,24 @@
 
 }
 
+.dropdown-menu{
+	margin-top: 15.5px;
+}
+
+.images1{
+	width: 80%;
+}
+
+.dropdown a:hover {
+	background-color: #000000;
+	/*opacity: 0.7;*/
+}
+
 a dropdown-item {
   background: none !important;
   font-family: Oswald, sans-serif !important;
 }
+
 
 @media only screen 
 and (min-device-width : 375px) 
@@ -75,5 +89,7 @@ and (max-device-width : 900px) {
         max-width:100%;
         padding-top: 10%;
         float: center;
-    }}
+    }
+    }
 }
+
